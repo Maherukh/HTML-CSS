@@ -1,0 +1,53 @@
+/* ctrl + /
+ h1 {
+    color: blue;
+}
+
+.h1-yellow {
+    color: yellow;
+}
+
+#h1-brown {
+    color: brown;
+} */
+
+/* #first {
+    height: 100vh;
+    background: red;
+}
+
+#second {
+    height: 100vh;
+    background: yellow;
+}
+
+#third {
+    height: 100vh;
+    background: cyan;
+} */
+
+/* span {
+    background: yellow;
+}
+
+p{
+    background: green;
+} */
+
+.h1-yellow {
+    color: yellow !important;
+}
+
+.h1-yellow {
+    color: red;
+}
+
+#h1-brown {
+    color: brown;
+}
+
+/* Specificity */
+/* - important 
+   - inline 
+   - id
+   - class */
